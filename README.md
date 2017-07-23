@@ -5,3 +5,9 @@ MU-Tour is an app that bring the new experience for the user to interact with vi
 We will use augmented reality technology to realize this apps. This will make visiting Old Trafford Museum more exiting and fun.
 
 Beyond the hackathon we will improve the prototype so this app will recognize the actual items in Old Trafford Museum.
+
+## Demo
+[![Demo Video](https://youtu.be/ZCMvxeu5Ork)
+
+## How to Install
+Just clone the source code from the github repo, open it with android studio then run it on Android emulator or on device.
