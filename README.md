@@ -7,7 +7,7 @@ We will use augmented reality technology to realize this apps. This will make vi
 Beyond the hackathon we will improve the prototype so this app will recognize the actual items in Old Trafford Museum.
 
 ## Demo
-[![Demo Video](https://www.youtube.com/watch?v=ZCMvxeu5Ork&feature=youtu.be)]
+[![Demo Video]](https://www.youtube.com/watch?v=ZCMvxeu5Ork&feature=youtu.be)
 
 ## How to Install
 Just clone the source code from the github repo, open it with android studio then run it on Android emulator or on device.
